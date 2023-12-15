@@ -9,7 +9,7 @@ Simple Jabba Gui for Windows
 *
 ### Installing
 *
-* Need jabba.exe in user path (Download in [Jabba Releases]([https://github.com/shyiko/jabba/releases](https://github.com/Jabba-Team/jabba/releases)))
+* Need jabba.exe in user path (Download in [Jabba Releases](https://github.com/Jabba-Team/jabba/releases)
 * Add JAVA_HOME on user environment variables
 * Add %JAVA_HOME%\bin on user Path
 *
